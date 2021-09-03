@@ -1,0 +1,20 @@
+name: no_shimmer
+description: A simple colored box widget, typically used for showing loading indicator. This is the opposite of shimmer, which has no animation/effects.
+version: 0.0.1
+repository: https://github.com/iandis/no_shimmer
+issue_tracker: https://github.com/iandis/no_shimmer/issues
+homepage: https://github.com/iandis/no_shimmer
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
