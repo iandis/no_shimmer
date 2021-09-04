@@ -153,7 +153,7 @@ class _RenderPlainRect extends RenderBox {
   @override
   Size computeDryLayout(BoxConstraints constraints) {
     final desiredWidth = width ?? constraints.maxWidth;
-    final desiredHeight = height ?? constraints.maxWidth;
+    final desiredHeight = height ?? constraints.maxHeight;
     final desiredSize = Size(desiredWidth, desiredHeight);
     return constraints.constrain(desiredSize);
   }
