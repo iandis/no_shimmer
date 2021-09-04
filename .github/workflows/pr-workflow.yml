@@ -32,7 +32,7 @@ jobs:
   
   analyze_with_pana:
     name: Analyze PR using Pana latest version
-    needs: [analyze_with_dart]
+    needs: [analyze_with_flutter]
     runs-on: ubuntu-latest
     
     steps:
