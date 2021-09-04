@@ -1,6 +1,6 @@
 name: no_shimmer
 description: A simple colored box widget, typically used for showing loading indicator. This is the opposite of shimmer, which has no animation/effects.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/iandis/no_shimmer
 issue_tracker: https://github.com/iandis/no_shimmer/issues
 homepage: https://github.com/iandis/no_shimmer
